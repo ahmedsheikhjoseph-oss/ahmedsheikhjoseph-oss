@@ -34,7 +34,7 @@
 
 **Languages:** <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="30x" width="30px" align="center"/> <img src="https://skillicons.dev/icons?i=cs" alt="C#" height="30x" width="30px" align="center"/> <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="30x" width="30px" align="center"/>
 
-**Tools:** <img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" height="30x" width="30px" align="center"/> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" height="30x" width="30px" align="center"/> <img src="https://skillicons.dev/icons?i=git" alt="git" height="30x" width="30px" align="center"/>  <img src="https://skillicons.dev/icons?i=xd" alt="xd" height="30x" width="30px" align="center"/>  <img src="https://skillicons.dev/icons?i=figma" alt="figma" height="30x" width="30px" align="center"/>
+**Tools:** <img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" height="30x" width="30px" align="center"/> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" height="30x" width="30px" align="center"/> <img src="https://skillicons.dev/icons?i=git" alt="git" height="30x" width="30px" align="center"/>  <img src="https://skillicons.dev/icons?i=figma" alt="figma" height="30x" width="30px" align="center"/> <img src="https://skillicons.dev/icons?i=xd" alt="xd" height="30x" width="30px" align="center"/>
 
 
 
