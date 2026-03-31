@@ -37,7 +37,7 @@
 **Tools:** <img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" height="30x" width="30px" align="center"/> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" height="30x" width="30px" align="center"/> <img src="https://skillicons.dev/icons?i=git" alt="git" height="30x" width="30px" align="center"/>  <img src="https://skillicons.dev/icons?i=xd" alt="xd" height="30x" width="30px" align="center"/>  <img src="https://skillicons.dev/icons?i=figma" alt="figma" height="30x" width="30px" align="center"/>
 
 
-⭐ *Always learning. Always building.* 
+
 
 
 </td>
@@ -49,16 +49,16 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
 
 ### GitHub Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ahmedsheikhjoseph-oss&theme=tokyonight"/>
 </p>
 
-### Activity Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedsheikhjoseph-oss&theme=tokyo-night"/>
-</p>
 
 
 ### GitHub Metrics Dashboard
@@ -69,6 +69,11 @@
 </p>
 
 
+
+### Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedsheikhjoseph-oss&theme=tokyo-night"/>
+</p>
 
 
 
